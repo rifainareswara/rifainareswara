@@ -1,3 +1,7 @@
+<p align="right">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rifainareswara&show_icons=true&locale=en&layout=compact&theme=dark" alt="rizqinareswara" />
+</p>
+
 ## 🛠️ Technologies & Tools I Use
 
 ### DevOps:
@@ -8,12 +12,6 @@
 
 ### Cloud:
 ![My Skills](https://skillicons.dev/icons?i=aws,gcp&theme=dark)
-
----
-
-<p align="right">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rifainareswara&show_icons=true&locale=en&layout=compact&theme=dark" alt="rizqinareswara" />
-</p>
 
 ---
 
