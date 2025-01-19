@@ -19,6 +19,8 @@
 [<img align="left" alt="rizqinrifai | Twitter"  src="https://skillicons.dev/icons?i=twitter" />][twitter]
 [<img align="left" alt="rizqinrifai | LinkedIn"  src="https://skillicons.dev/icons?i=linkedin" />][linkedin]
 
+</br>
+
 ## 🙏 Thanks for Visiting My Profile!
 
 I’m excited to share my projects and knowledge here. Don’t hesitate to reach out if you're interested in collaborating or if you have any questions!
