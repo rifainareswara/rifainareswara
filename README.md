@@ -1,3 +1,7 @@
+## 📫 How to Reach Me
+
+[<img align="left" alt="rizqinrifai | Twitter"  src="https://skillicons.dev/icons?i=twitter" />][twitter]
+[<img align="left" alt="rizqinrifai | LinkedIn"  src="https://skillicons.dev/icons?i=linkedin" />][linkedin]
 
 ## 🛠️ Technologies & Tools I Use
 
@@ -14,12 +18,6 @@
 
 ---
 
-## 📫 How to Reach Me
-
-[<img align="left" alt="rizqinrifai | Twitter"  src="https://skillicons.dev/icons?i=twitter" />][twitter]
-[<img align="left" alt="rizqinrifai | LinkedIn"  src="https://skillicons.dev/icons?i=linkedin" />][linkedin]
-
----
 
 <p align="right">
   <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rifainareswara&show_icons=true&locale=en&layout=compact&theme=dark" alt="rizqinareswara" />
