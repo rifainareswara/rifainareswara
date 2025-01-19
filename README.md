@@ -6,15 +6,14 @@
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rifainareswara&show_icons=true&locale=en&layout=compact&theme=dark" alt="rizqinareswara" />
 </p>
 
----
 ## 🛠️ Technologies & Tools I Use
 ### Programming Languages:
 ![My Skills](https://skillicons.dev/icons?i=rust,actix,python,fastapi,go&theme=dark)
 ### DevOps:
-![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,openstack,jenkins,grafana,ansible,terraform&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,nginx,openstack,jenkins,grafana,ansible,terraform&theme=dark)
+### Cloud:
+![My Skills](https://skillicons.dev/icons?i=aws,gcp&theme=dark)
 
-
----
 ## 📫 How to Reach Me
 
 [<img align="left" alt="rizqinrifai | Twitter"  src="https://skillicons.dev/icons?i=twitter" />][twitter]
