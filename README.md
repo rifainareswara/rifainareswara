@@ -7,19 +7,28 @@
 </p>
 
 ---
-### The technology I usually use.
-
-![My Skills](https://skillicons.dev/icons?i=rust,actix,python,fastapi,go,docker,kubernetes,aws,gcp,jenkins,grafana,ansible,terraform&theme=dark)
+## 🛠️ Technologies & Tools I Use
+### Programming Languages:
+![My Skills](https://skillicons.dev/icons?i=rust,actix,python,fastapi,go&theme=dark)
+### DevOps:
+![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,openstack,jenkins,grafana,ansible,terraform&theme=dark)
 
 
 ---
-### Connect with me:
+## 📫 How to Reach Me
 
 [<img align="left" alt="rizqinrifai | Twitter"  src="https://skillicons.dev/icons?i=twitter" />][twitter]
 [<img align="left" alt="rizqinrifai | LinkedIn"  src="https://skillicons.dev/icons?i=linkedin" />][linkedin]
 
-<br/>
-<br/>
+## 🙏 Thanks for Visiting My Profile!
+
+I’m excited to share my projects and knowledge here. Don’t hesitate to reach out if you're interested in collaborating or if you have any questions!
+
+---
+
+> *“Learning is a never-ending journey.”*
+
+---
 
 [website]: https://www.nareswara.com/
 [twitter]: https://twitter.com/rizqinrifai
