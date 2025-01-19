@@ -19,14 +19,6 @@
 [<img align="left" alt="rizqinrifai | Twitter"  src="https://skillicons.dev/icons?i=twitter" />][twitter]
 [<img align="left" alt="rizqinrifai | LinkedIn"  src="https://skillicons.dev/icons?i=linkedin" />][linkedin]
 
-</br>
-
-
----
-
-> *“Learning is a never-ending journey.”*
-
----
 
 [website]: https://www.nareswara.com/
 [twitter]: https://twitter.com/rizqinrifai
