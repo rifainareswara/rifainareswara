@@ -1,4 +1,4 @@
-## 📫 How to Reach Me
+# 📫 How to Reach Me
 
 [<img align="left" alt="rizqinrifai | Twitter"  src="https://skillicons.dev/icons?i=twitter" />][twitter]
 [<img align="left" alt="rizqinrifai | LinkedIn"  src="https://skillicons.dev/icons?i=linkedin" />][linkedin]
@@ -6,14 +6,14 @@
 </br>
 </br>
 
-## 🛠️ Technologies & Tools I Use
+# 🛠️ Technologies & Tools I Use
 
 
 ### DevOps:
 ![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,nginx,openstack,jenkins,grafana,ansible,terraform&theme=dark)
 
 ### Programming Languages:
-![My Skills](https://skillicons.dev/icons?i=rust,actix,python,fastapi,go&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=rust,actix,python,fastapi,go,java&theme=dark)
 
 
 ### Cloud:
