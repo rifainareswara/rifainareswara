@@ -12,6 +12,14 @@
 ### DevOps:
 ![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,nginx,jenkins,grafana,prometheus,ansible,terraform&theme=dark)
 
+
+### Programming Languages:
+![My Skills](https://skillicons.dev/icons?i=rust,actix,python,fastapi,go,java&theme=dark)
+
+
+### Cloud:
+![My Skills](https://skillicons.dev/icons?i=aws,gcp&theme=dark)
+
 ### Security:
 - VAULT
 - TRUFFLE HOG
@@ -22,13 +30,6 @@
 - OWAPS ZAP
 - OWAPS DEPENDENCY CHECK
 - BURPSUITE
-
-### Programming Languages:
-![My Skills](https://skillicons.dev/icons?i=rust,actix,python,fastapi,go,java&theme=dark)
-
-
-### Cloud:
-![My Skills](https://skillicons.dev/icons?i=aws,gcp&theme=dark)
 
 ---
 
