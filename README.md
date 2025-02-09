@@ -1,11 +1,3 @@
-## 📫 How to Reach Me
-
-[<img align="left" alt="rizqinrifai | Twitter"  src="https://skillicons.dev/icons?i=twitter" />][twitter]
-[<img align="left" alt="rizqinrifai | LinkedIn"  src="https://skillicons.dev/icons?i=linkedin" />][linkedin]
-[<img align="left" alt="rifainareswara | Instagram"  src="https://skillicons.dev/icons?i=instagram" />][instagram]
-
-</br>
-</br>
 
 ## 🛠️ Technologies & Tools I Use
 
