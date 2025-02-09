@@ -10,7 +10,7 @@
 
 
 ### DevOps:
-![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,nginx,jenkins,grafana,prometheus,ansible,terraform&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,nginx,jenkins,grafana,prometheus,ansible,terraform,helm&theme=dark)
 
 
 ### Programming Languages:
