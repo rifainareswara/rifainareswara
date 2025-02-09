@@ -13,7 +13,15 @@
 ![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,nginx,jenkins,grafana,prometheus,ansible,terraform&theme=dark)
 
 ### Security:
-![My Skills](https://skillicons.dev/icons?i=snyk,sonarqube,owasp&theme=dark)
+- VAULT
+- TRUFFLE HOG
+- TRIVY
+- HARBOUR
+- SNYK
+- Sonarqube
+- OWAPS ZAP
+- OWAPS DEPENDENCY CHECK
+- BURPSUITE
 
 ### Programming Languages:
 ![My Skills](https://skillicons.dev/icons?i=rust,actix,python,fastapi,go,java&theme=dark)
