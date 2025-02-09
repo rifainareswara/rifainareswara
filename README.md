@@ -13,8 +13,8 @@
 ![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,nginx,jenkins,grafana,prometheus,ansible,terraform,helm&theme=dark)
 
 
-### Programming Languages:
-![My Skills](https://skillicons.dev/icons?i=rust,actix,python,fastapi,go,java&theme=dark)
+### Programming I Use:
+![My Skills](https://skillicons.dev/icons?i=rust,actix,python,fastapi,go,java,typescript,javascript,php&theme=dark)
 
 
 ### Cloud:
