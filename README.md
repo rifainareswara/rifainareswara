@@ -14,7 +14,10 @@
 
 
 ### Programming I Use:
-![My Skills](https://skillicons.dev/icons?i=rust,actix,python,fastapi,go,java,typescript,javascript,php&theme=dark)
+#### Primary
+![My Skills](https://skillicons.dev/icons?i=rust,actix,python,fastapi&theme=dark)
+#### Secondary
+![My Skills](https://skillicons.dev/icons?i=go,java,typescript,javascript,php&theme=dark)
 
 
 ### Cloud:
