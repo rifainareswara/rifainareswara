@@ -1,19 +1,20 @@
-# 📫 How to Reach Me
+## 📫 How to Reach Me
 
 [<img align="left" alt="rizqinrifai | Twitter"  src="https://skillicons.dev/icons?i=twitter" />][twitter]
 [<img align="left" alt="rizqinrifai | LinkedIn"  src="https://skillicons.dev/icons?i=linkedin" />][linkedin]
+[<img align="left" alt="rifainareswara | Instagram"  src="https://skillicons.dev/icons?i=instagram" />][instagram]
 
 </br>
 </br>
 
-# 🛠️ Technologies & Tools I Use
+## 🛠️ Technologies & Tools I Use
 
 
 ### DevOps:
 ![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,nginx,jenkins,grafana,prometheus,ansible,terraform,helm&theme=dark)
 
 
-### Programming I Use:
+### Programming:
 #### Primary
 ![My Skills](https://skillicons.dev/icons?i=rust,actix,python,fastapi&theme=dark)
 #### Secondary
