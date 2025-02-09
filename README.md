@@ -12,6 +12,9 @@
 ### DevOps:
 ![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,nginx,jenkins,grafana,prometheus,ansible,terraform&theme=dark)
 
+### Security:
+![My Skills](https://skillicons.dev/icons?i=snyk,sonarqube,owasp&theme=dark)
+
 ### Programming Languages:
 ![My Skills](https://skillicons.dev/icons?i=rust,actix,python,fastapi,go,java&theme=dark)
 
