@@ -8,9 +8,9 @@
 
 ### Programming:
 #### Primary
-![My Skills](https://skillicons.dev/icons?i=rust,actix,python,fastapi&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=rust,actix,go,javascript&theme=dark)
 #### Secondary
-![My Skills](https://skillicons.dev/icons?i=go,java,typescript,javascript,php&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=python,fastapi,java,typescript,php&theme=dark)
 
 
 ### Cloud:
