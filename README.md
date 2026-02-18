@@ -13,8 +13,8 @@ I bridge the gap between complex codebases and scalable infrastructure. With a b
 | **Backend/Systems** | Rust (Axum/SQLx, Actix), Python, High-performance APIs. |
 | **CI/CD & Ops** | GitOps, Kubernetes, Advanced IAM & Security Monitoring. |
 | **Data Science** | Predictive Modeling (LSTM), Financial Data Analysis. |
-| **Secrets Management:** Secure handling of credentials using **Google Secret Manager** and encrypted remote states. |
-| **Network Hardening:** Configuring VPC Service Controls, Firewalls, and private endpoints for secure communication. |
+| **Secrets Management:** | Secure handling of credentials using **Google Secret Manager** and encrypted remote states. |
+| **Network Hardening:** | Configuring VPC Service Controls, Firewalls, and private endpoints for secure communication. |
 
 ---
 
