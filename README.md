@@ -21,7 +21,7 @@ high-availability systems and the pipelines that ship them.
 | Category | Specialized In |
 | :--- | :--- |
 | **Infrastructure as Code** | Terraform, Ansible, modular multi-cloud architecture |
-| **Cloud Platforms** | Google Cloud Platform, Alibaba Cloud (SAE · ACR · CLB · VPC) |
+| **Cloud Platforms** | Google Cloud Platform, AWS, Byteplus Alibaba Cloud (SAE · ACR · CLB · VPC) |
 | **Backend / Systems** | Rust (Axum, Actix, SQLx), Python, high-performance APIs |
 | **CI/CD & Ops** | GitOps, Kubernetes, GitLab CI, Docker, advanced IAM |
 | **Secrets & Security** | Google Secret Manager, encrypted remote state, zero-trust design |
@@ -36,6 +36,26 @@ high-availability systems and the pipelines that ship them.
 - **Cloud infrastructure** — automated, modular environments on GCP & Alibaba Cloud with Terraform-managed remote state.
 - **Zero-trust automation** — secure cloud environments with integrated security scanning baked into the pipeline.
 - **Academic research** — Deep Learning (LSTM) for market prediction, plus Islamic Work Ethic in modern tech environments.
+
+---
+
+## 🔐 Security & Hardening
+
+I treat security as a build-time concern, not a post-deploy patch. Every pipeline I ship has guardrails baked in.
+
+| Domain | What I Apply |
+| :--- | :--- |
+| **Secrets Management** | Google Secret Manager, encrypted remote state, zero hardcoded credentials |
+| **Zero-Trust Architecture** | Least-privilege IAM, VPC Service Controls, private endpoints, no public ingress by default |
+| **Pipeline Security** | SAST/secret-scanning in CI, signed images, ACR IP ACL, branch-gated deploys |
+| **Network Hardening** | Firewall segmentation, private VPC peering, TLS termination at edge (Cloudflare/CLB) |
+| **Supply Chain** | Pinned dependencies, reproducible builds, minimal base images |
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cloudflare,vault,linux,bash" alt="security tools"/>
+</p>
+
+> *"Shift left, lock down, assume breach."*
 
 ---
 
