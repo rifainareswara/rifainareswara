@@ -1,37 +1,69 @@
-# Hi, I'm Rifai 👋
-### Senior DevOps Engineer | Informatics Student @ UNSIA
+<h1 align="center">Hi, I'm Rifai 👋</h1>
+<h3 align="center">Senior DevOps Engineer · Rust Backend Developer · Informatics Student @ UNSIA</h3>
 
-I bridge the gap between complex codebases and scalable infrastructure. With a background in heavy-duty automation and a current academic focus on Computer Science fundamentals, I specialize in building resilient, high-availability systems.
-
----
-
-## 🛠 Senior Tech Stack & Expertise
-
-| Category | Specialized In |
-| :--- | :--- |
-| **Infrastructure** | Terraform (IaC), Ansible, Multi-cloud Architecture. |
-| **Backend/Systems** | Rust (Axum/SQLx, Actix), Python, High-performance APIs. |
-| **CI/CD & Ops** | GitOps, Kubernetes, Advanced IAM & Security Monitoring. |
-| **Data Science** | Predictive Modeling (LSTM), Financial Data Analysis. |
-| **Secrets Management:** | Secure handling of credentials using **Google Secret Manager** and encrypted remote states. |
-| **Network Hardening:** | Configuring VPC Service Controls, Firewalls, and private endpoints for secure communication. |
-
----
-
-## 🔭 Current Research & Projects
-- **High-Performance Backend:** Developing modular microservices in **Rust** with a focus on type-safety and memory efficiency.
-- **Cloud Infrastructure:** Architecting automated environments on **Google Cloud Platform** using **Terraform** for remote state management and modular scalability.
-- **Academic Research:** Applying **Deep Learning (LSTM)** for market prediction and exploring the integration of **Islamic Work Ethic** in modern tech environments.
-- **Zero-Trust Infrastructure:** Automating secure cloud environments using modular **Terraform** with integrated security scanning.
-- **Safe Backend Systems:** Leveraging **Rust's** memory safety to eliminate common vulnerabilities at the compile-time level.
-
----
-
-## 📊 Performance Metrics
-<p align="left">
-<img src="https://github-readme-stats-fast.vercel.app/api?username=rifainareswara&show_icons=true&theme=tokyonight" alt="Rifai's GitHub stats" />
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rifainareswara&layout=compact&theme=tokyonight" alt="Top Langs" />
+<p align="center">
+  <a href="mailto:rizqi.rifai@magnusdigital.co.id"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=rifainareswara&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
-*"Automate everything. Question everything else."*
+
+I bridge the gap between complex codebases and scalable infrastructure. Background in heavy-duty
+automation, current academic focus on Computer Science fundamentals — I build resilient,
+high-availability systems and the pipelines that ship them.
+
+> *"Automate everything. Question everything else."*
+
+---
+
+## 🛠 Tech Stack & Expertise
+
+| Category | Specialized In |
+| :--- | :--- |
+| **Infrastructure as Code** | Terraform, Ansible, modular multi-cloud architecture |
+| **Cloud Platforms** | Google Cloud Platform, Alibaba Cloud (SAE · ACR · CLB · VPC) |
+| **Backend / Systems** | Rust (Axum, Actix, SQLx), Python, high-performance APIs |
+| **CI/CD & Ops** | GitOps, Kubernetes, GitLab CI, Docker, advanced IAM |
+| **Secrets & Security** | Google Secret Manager, encrypted remote state, zero-trust design |
+| **Network Hardening** | VPC Service Controls, firewalls, private endpoints |
+| **Data Science** | Predictive modeling (LSTM), financial data analysis |
+
+---
+
+## 🔭 Current Focus
+
+- **High-performance backends** — modular microservices in Rust, focused on type-safety and memory efficiency.
+- **Cloud infrastructure** — automated, modular environments on GCP & Alibaba Cloud with Terraform-managed remote state.
+- **Zero-trust automation** — secure cloud environments with integrated security scanning baked into the pipeline.
+- **Academic research** — Deep Learning (LSTM) for market prediction, plus Islamic Work Ethic in modern tech environments.
+
+---
+
+## 🚀 Featured Work
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **Magnus Deploy Pipeline** | Standardized Docker → ACR → SAE → CLB deploy flow for microservices | Docker · GitLab CI · Alibaba SAE |
+| **Rust Microservices** | Type-safe, memory-efficient API services | Rust · Axum · SQLx |
+| **Terraform Cloud Modules** | Reusable IaC for zero-trust GCP environments | Terraform · GCP |
+
+---
+
+## 🛠 Tools & Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=rust,python,go,terraform,ansible,kubernetes,docker,gcp,gitlab,linux,bash,postgres" alt="tech stack"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=rifainareswara&show_icons=true&theme=tokyonight" alt="Rifai's GitHub stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rifainareswara&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rifainareswara&theme=tokyonight" alt="GitHub Streak" />
+</p>
