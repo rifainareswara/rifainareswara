@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Rifai 👋</h1>
-<h3 align="center">Senior DevOps Engineer · Rust Backend Developer · Informatics Student @ UNSIA</h3>
+<h3 align="center">Senior DevOps Engineer · Rust Backend Developer</h3>
 
 <p align="center">
   <a href="mailto:rizqi.rifai@magnusdigital.co.id"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
